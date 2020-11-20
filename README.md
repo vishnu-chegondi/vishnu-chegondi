@@ -15,6 +15,12 @@
 
 ---
 
-#### Connect to me at:
+#### How I work
+
+My motivations are to increase the quality and decrease the development and deployment time of our software tremendously. In a fast moving and changing world it is key to provide stable solutions for everybody. I love to use cutting edge technology but I don't fear a good old legacy monster. 
+
+
+#### Connect to me at
 
 - [LinkedIn](https://www.linkedin.com/in/vishnuchegondi/)
+- [PersonalSite](https://codeamenity.in/)
