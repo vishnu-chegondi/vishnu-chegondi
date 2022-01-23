@@ -9,8 +9,8 @@
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Python and GoLang
-- 🌱 I’m currently learning Infrastructure Code
+- 🔭 I’m currently working using Python and GoLang
+- 🌱 I’m currently learning Infrastructure Code and automate deployments on k8s.
 - 👯 I’m looking to collaborate with ChildLike Geeky Minds(Note: Child are best learners)
 
 ---
