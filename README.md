@@ -9,9 +9,9 @@
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working using Python and GoLang
-- 🌱 I’m currently learning Infrastructure Code and automate deployments on k8s.
-- 👯 I’m looking to collaborate with ChildLike Geeky Minds
+- 🔭 Spending time on building systems, workflows using cutting edge technologies and legacy monsters.
+- 🌱 Seeking to build secure infrastructure for rapid deployments and changes in the AI driven world.
+- 👯 I’m looking to collaborate with ChildLike Geeky Minds.
 
 ---
 
