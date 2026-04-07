@@ -27,7 +27,7 @@ My motivations are to increase the quality and decrease the development and depl
 
 
 #### 📈 Contribution Graph
-![github graph](https://github-readme-activity-graph.vercel.app/graph?username=vishnu-chegondi&theme=react-dark&hide_border=true%area=true)
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=vishnu-chegondi&theme=react-dark&hide_border=true&area=true)
 
 
 #### 📅 Productivity Stats
