@@ -26,5 +26,15 @@ My motivations are to increase the quality and decrease the development and depl
 - [PersonalSite](https://codeamenity.in/)
 
 
-## 📈 Contribution Graph
+#### 📈 Contribution Graph
 ![](https://github-readme-activity-graph.vercel.app/graph?username=vishnu-chegondi&theme=react-dark&hide_border=false)
+
+
+#### 📅 Productivity Stats
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vishnu-chegondi&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vishnu-chegondi&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vishnu-chegondi&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vishnu-chegondi&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vishnu-chegondi&theme=github_dark&utcOffset=5)
