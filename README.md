@@ -34,6 +34,6 @@ My motivations are to increase the quality and decrease the development and depl
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vishnu-chegondi&theme=github_dark)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vishnu-chegondi&theme=github_dark)
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vishnu-chegondi&theme=github_dark)
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vishnu-chegondi&theme=github_dark&utcOffset=5)
